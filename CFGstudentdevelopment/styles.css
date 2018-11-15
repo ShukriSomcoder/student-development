@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* cutomize navbar*//
 .navbar{
     background-color:red !important;
@@ -92,3 +93,99 @@ body {
   text-align: center;
 }
 
+=======
+/* cutomize navbar*//
+.navbar{
+    background-color:red !important;
+    }
+
+/* change the brand and text color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: rgba(22, 130, 153, 1)
+}
+/* change the link color */
+.navbar-custom .navbar-nav .nav-link {
+    color: rgb(200, 162, 200);
+}
+/* change the color of active or hovered links */
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:focus .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: rgb(125, 249, 255)
+}
+
+.img-fluid{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.nvbr{
+    background-color: white;
+    
+}
+
+.nvbr ul li a{
+    
+    border: 2px solid #E43496;
+     text-align: center;
+}
+       
+    
+.navbar-brand {
+    background-color: white;
+    color:#168299;
+    text-decoration: none;
+    
+}
+
+
+
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  position: relative;
+  margin: 0;
+  padding-bottom: 6rem;
+  min-height: 100%;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.demo {
+  margin: 0 auto;
+  padding-top: 64px;
+  max-width: 640px;
+  width: 94%;
+}
+
+.demo h1 {
+  margin-top: 0;
+}
+
+/**
+ * Footer Styling
+ */
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #168299;
+  text-align: center;
+}
+
+>>>>>>> 4d3395614ede0c4d558d8866cda1692ccbf564b1
