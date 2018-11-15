@@ -19,6 +19,9 @@
     color: rgb(125, 249, 255)
 }
 
+.nav-item {
+    margin-right: 10px;
+}
 .img-fluid{
     width: 50%;
     display: block;
